@@ -18,3 +18,13 @@ T:\socket\Socket\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 T:\socket\Socket\Socket\Client\obj\Debug\Client.csproj.CopyComplete
 T:\socket\Socket\Socket\Client\obj\Debug\Client.exe
 T:\socket\Socket\Socket\Client\obj\Debug\Client.pdb
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\bin\Debug\Client.exe.config
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\bin\Debug\Client.exe
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\bin\Debug\Client.pdb
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\obj\Debug\Client.exe
+C:\Users\amest\Documents\GitHub\ametres\Socket\Socket\Socket\Client\obj\Debug\Client.pdb

@@ -22,8 +22,7 @@ namespace Client
             Console.WriteLine("Please Supply a Valid Port Number 0 - 65535 and Press Enter: ");
             string strPortInput = Console.ReadLine();
 
-            if (!client.SetServerIPAddress(strIPAddress) ||
-                    !client.SetPortNumber(strPortInput))
+            if (!client.SetServerIPAddress(strIPAddress) || !client.SetPortNumber(strPortInput))
             {
                 Console.WriteLine(
                     string.Format(
