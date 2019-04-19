@@ -1,0 +1,32 @@
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.Properties.Resources.resources
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\Socket.exe.config
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\Socket.exe
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\Socket.pdb
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\System.ValueTuple.dll
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\System.ValueTuple.xml
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.csproj.CopyComplete
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.exe
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.pdb
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\Client.exe
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\Client.pdb
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\bin\Debug\Client.exe.config
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\obj\Debug\Socket.Form1.resources
+T:\socket\Socket\Socket\bin\Debug\Socket.exe.config
+T:\socket\Socket\Socket\bin\Debug\Socket.exe
+T:\socket\Socket\Socket\bin\Debug\Socket.pdb
+T:\socket\Socket\Socket\bin\Debug\Client.exe
+T:\socket\Socket\Socket\bin\Debug\System.ValueTuple.dll
+T:\socket\Socket\Socket\bin\Debug\Client.pdb
+T:\socket\Socket\Socket\bin\Debug\Client.exe.config
+T:\socket\Socket\Socket\bin\Debug\System.ValueTuple.xml
+T:\socket\Socket\Socket\obj\Debug\Socket.csprojAssemblyReference.cache
+T:\socket\Socket\Socket\obj\Debug\Socket.Form1.resources
+T:\socket\Socket\Socket\obj\Debug\Socket.Properties.Resources.resources
+T:\socket\Socket\Socket\obj\Debug\Socket.csproj.GenerateResource.cache
+T:\socket\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+T:\socket\Socket\Socket\obj\Debug\Socket.csproj.CopyComplete
+T:\socket\Socket\Socket\obj\Debug\Socket.exe
+T:\socket\Socket\Socket\obj\Debug\Socket.pdb

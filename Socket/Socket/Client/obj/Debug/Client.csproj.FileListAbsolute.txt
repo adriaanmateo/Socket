@@ -1,0 +1,20 @@
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\bin\Debug\Client.exe.config
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\bin\Debug\Client.exe
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\bin\Debug\Client.pdb
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\obj\Debug\Client.exe
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\obj\Debug\Client.pdb
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\pablo\Desktop\DAM2\Seguretat i criptografia\Socket\Socket\Client\obj\Debug\Client.csproj.CopyComplete
+T:\socket\Socket\Socket\Client\bin\Debug\Client.exe.config
+T:\socket\Socket\Socket\Client\bin\Debug\Client.exe
+T:\socket\Socket\Socket\Client\bin\Debug\Client.pdb
+T:\socket\Socket\Socket\Client\bin\Debug\System.ValueTuple.dll
+T:\socket\Socket\Socket\Client\bin\Debug\System.ValueTuple.xml
+T:\socket\Socket\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+T:\socket\Socket\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+T:\socket\Socket\Socket\Client\obj\Debug\Client.csproj.CopyComplete
+T:\socket\Socket\Socket\Client\obj\Debug\Client.exe
+T:\socket\Socket\Socket\Client\obj\Debug\Client.pdb
